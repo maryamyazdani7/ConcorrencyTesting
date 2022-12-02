@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactiveProgrammingTesting"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataFlowTesting", "DataFlowTesting\DataFlowTesting.csproj", "{1318F969-E971-473F-A242-098729A1AE5E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncBasicTesting", "AsyncBasicTesting\AsyncBasicTesting.csproj", "{AFF6D957-4960-449D-9FA3-20BA710300F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1318F969-E971-473F-A242-098729A1AE5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1318F969-E971-473F-A242-098729A1AE5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1318F969-E971-473F-A242-098729A1AE5E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF6D957-4960-449D-9FA3-20BA710300F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF6D957-4960-449D-9FA3-20BA710300F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF6D957-4960-449D-9FA3-20BA710300F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF6D957-4960-449D-9FA3-20BA710300F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
